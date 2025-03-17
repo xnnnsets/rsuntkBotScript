@@ -5,7 +5,7 @@ msg="*$TITLE*
 $2
 \`\`\`
 *Note: Always backup working boot before flash\\.*
-*Thanks for Source [rsuntk](https://github.com/rsuntk) [rsuntk-open-source](https://github.com/rsuntkOrgs)\\.*
+Thanks for Source [rsuntk](https://github.com/rsuntk) [rsuntk-open-source](https://github.com/rsuntkOrgs)\\.
 "
 
 # Escape any special markdown characters

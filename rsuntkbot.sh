@@ -4,8 +4,9 @@ msg="*$TITLE*
 \`\`\`
 $2
 \`\`\`
-*Note: Always backup working boot before flash\.* 
-*Thanks for Source [rsuntk](https://github.com/rsuntk) [rsuntk-open-source](https://github.com/rsuntkOrgs)\.*"
+*Note: Always backup working boot before flash\\.*
+*Thanks for Source [rsuntk](https://github.com/rsuntk) [rsuntk-open-source](https://github.com/rsuntkOrgs)\\.*
+"
 
 # Escape any special markdown characters
 msg=$(echo "$msg" | sed 's/[\*_\[\]()~`>#+-=|{}.!]/\\&/g')

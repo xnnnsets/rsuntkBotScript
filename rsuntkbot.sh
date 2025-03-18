@@ -5,7 +5,7 @@ msg="*$TITLE*
 $2
 \`\`\`
 *Note: Always backup working boot before flash\\.*
-*Thanks for Source builder and kernel rsuntk, rsuntkOrgs)\\.*
+*Thanks for Source builder and kernel rsuntk, rsuntkOrgs\\.*
 "
 
 file="$1"
